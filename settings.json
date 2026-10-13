@@ -1,0 +1,12 @@
+{
+  "scan": {
+    "default_ports": "1-1024",
+    "timeout": 1.5,
+    "threads": 100
+  },
+  "output": {
+    "save_reports": true,
+    "report_dir": "reports"
+  },
+  "user_agent": "ReconX/1.0 (Educational Security Tool)"
+}
